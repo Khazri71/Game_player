@@ -1,0 +1,36 @@
+
+body{
+   background-color: #c0c0c0e4;
+}
+div{
+    width: 20px;
+    height: 20px;
+    position: fixed;
+}
+
+#player{
+    background-color: rgb(1, 1, 62);
+}
+
+#goal{
+    background-color: rgb(14, 90, 0);
+}
+
+#score{
+    top: 15px;
+    text-align: center;
+    padding: 10px ;
+    border: 2px solid rgb(1, 1, 62);
+    color: rgb(14, 90, 0);
+    font-weight: bold;
+}
+
+button{
+    background-color: rgb(14, 90, 0);
+    float: right;
+    padding: 10px;
+    color: #fff;
+    right: 10px;
+    border: none;
+    cursor: pointer;
+}

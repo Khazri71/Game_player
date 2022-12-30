@@ -1,0 +1,34 @@
+Element 
+  //properties 
+  shape 
+  x 
+  y 
+
+  //methods
+
+----
+Player 
+  //properties
+  
+  //methods
+  moveUp()
+  moveDown()
+  moveLeft()
+  moveRight()
+
+
+----
+
+Goal 
+  //properties
+
+  //methods
+
+----
+/**************KeyCodes*************/
+--->https://www.toptal.com/developers/keycode   !!! KeyCode Deprecated : use key / code instead
+
+KeyTop = 38
+KeyDown = 40
+KeyLeft = 37
+KeyRight = 39
